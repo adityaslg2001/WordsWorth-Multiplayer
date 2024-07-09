@@ -1,6 +1,6 @@
 # WORDSWORTH Multiplayer Game
 
-A Wordle-like game built using HTML, CSS, Bootstrap JavaScript, Node.js, Express.js and Spline with multiplayer feature that allows users to challenge friends by sharing unique game links. The game also includes various difficulty modes, sound effects, and leaderboards for each instance of a game.
+A word game built using HTML, CSS, Bootstrap JavaScript, Node.js, Express.js and Spline with multiplayer feature that allows users to challenge friends by sharing unique game links. The game also includes various difficulty modes, sound effects, and leaderboards for each instance of a game.
 
 ## Features
 
